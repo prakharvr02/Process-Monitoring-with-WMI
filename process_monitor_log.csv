@@ -1,0 +1,4 @@
+CommandLine, Time, Executable, Parent PID, PID, User, Privileges
+"cmd.exe /c echo Hello", "2024-12-11T14:55:00", "C:\\Windows\\System32\\cmd.exe", 1234, 5678, "JohnDoe", "N/A"
+"python script.py", "2024-12-11T14:57:25", "C:\\Python39\\python.exe", 5678, 9876, "JaneDoe", "N/A"
+"notepad.exe", "2024-12-11T14:59:10", "C:\\Windows\\System32\\notepad.exe", 1234, 8765, "Admin", "N/A"
