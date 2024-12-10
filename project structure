@@ -1,0 +1,7 @@
+process-monitoring-script/
+│
+├── process_monitor.py           # The main Python script for monitoring processes
+├── requirements.txt            # Dependencies for the project
+├── process_monitor_log.csv     # Log file where process details are stored
+├── README.md                   # Project documentation
+└── LICENSE                     # License file (if applicable)
